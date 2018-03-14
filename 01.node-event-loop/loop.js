@@ -23,7 +23,7 @@ while (shouldContinue()) {
   // 2) Node looks at pendingOSTasks and pendingOperations
   // and calls relevant callbacks
 
-  // 3) Pause execution. Continue whe...
+  // 3) Pause execution. Continue when...
   // - a new pendingOSTask is done
   // - a new pendingOperation is done
   // - a timer is about to complete
