@@ -6,6 +6,8 @@
 
 ## Node Event Loop
 
+[Philip Roberts Help I'm stuck in an event loop](#https://www.youtube.com/watch?v=6MXRNXXgP_0)
+
 <pre><code>
    ┌───────────────────────┐
 ┌─>│        timers         │
